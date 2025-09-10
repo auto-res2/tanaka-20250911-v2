@@ -1,0 +1,12 @@
+# config/config.yaml
+author: "CI default config"
+model: "DiT-XL/2"
+image_size: 64  # Small to keep the CI runtime reasonable
+lr: 1e-4
+eval_every: 5
+save_every: 10
+samples_eval: 8
+method_cfg:
+  gradient_checkpointing: false
+  qrs: false
+  dtc: false
