@@ -2,5 +2,16 @@
   "research_topic": "Diffusion Transformersの学習時のメモリ改善",
   "queries": [
     "memory-efficient diffusion transformer training"
+  ],
+  "research_study_list": [
+    {
+      "title": "Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching"
+    },
+    {
+      "title": "EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching"
+    },
+    {
+      "title": "Improving Training Efficiency of Diffusion Models via Multi-Stage Framework and Tailored Multi-Decoder Architecture"
+    }
   ]
 }
